@@ -8,15 +8,19 @@ I'm a dedicated professional navigating the world of technology, powered by the 
 
 #### What I'm currently focused on:
 
-* [Briefly describe your current primary work focus, e.g., "Developing robust backend solutions," "Optimizing cloud infrastructure," "Crafting intuitive user interfaces," etc.]
-* [Mention a key technology or project you're working with, e.g., "Deep diving into Python and Django," "Exploring Kubernetes for scalable deployments," "Mastering React for front-end development."]
+* Developing robust backend solutions
+* Optimizing cloud infrastructure
+* Crafting intuitive user interfaces
+* Deep diving into Python and Django
+* Exploring Kubernetes for scalable deployments
+* Mastering React for front-end development
 
 #### My toolkit:
 
 * **Operating System:** Linux Mint (of course!) 💚
-* **Languages:** [List 2-3 primary programming languages you use, e.g., Python, JavaScript, Go, C++]
-* **Frameworks/Libraries:** [List 2-3 relevant frameworks/libraries, e.g., Django, React, Node.js, Spring Boot]
-* **Tools:** [List 2-3 key tools, e.g., Git, Docker, VS Code, [Your IDE]]
+* **Languages:*Javscript, React, PHP, Tailwind,* 
+* **Frameworks/Libraries:*Django, React, Node.js, Laravel* 
+* **Tools:*Git, Docker, VS Code, AWS CLI* 
 
 ---
 
