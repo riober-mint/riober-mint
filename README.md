@@ -17,10 +17,10 @@ I'm a dedicated professional navigating the world of technology, powered by the 
 
 #### My toolkit:
 
-* **Operating System:** Linux Mint (of course!) 💚
-* **Languages:*Javscript, React, PHP, Tailwind,* 
-* **Frameworks/Libraries:*Django, React, Node.js, Laravel* 
-* **Tools:*Git, Docker, VS Code, AWS CLI* 
+* **Operating System:** *Linux Mint (of course!) 💚*
+* **Languages:** *Javscript, React, PHP, Tailwind,* 
+* **Frameworks/Libraries:** *Django, React, Node.js, Laravel* 
+* **Tools:** *Git, Docker, VS Code, AWS CLI* 
 
 ---
 
